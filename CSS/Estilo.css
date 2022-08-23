@@ -3,7 +3,7 @@ body{
     background-color: white;
     margin: 0;
     padding: 0;
-    margin: 10% 10% 5% 5%; /*Topo da direita para esquerda*/
+    margin: 3% 10% 5% 0.5%; /*Topo da direita para esquerda*/
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
 
@@ -17,3 +17,16 @@ body{
 
 }
 
+a{
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+}
+
+#capa{
+
+    width: 111%;
+    height: 1000%;
+
+}
