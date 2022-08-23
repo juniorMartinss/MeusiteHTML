@@ -1,0 +1,19 @@
+body{
+
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    margin: 10% 10% 5% 5%; /*Topo da direita para esquerda*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+
+#paginainicial{
+
+    background-color: #1E90FF;
+	color: #000;
+	text-align: left; 
+
+}
+
