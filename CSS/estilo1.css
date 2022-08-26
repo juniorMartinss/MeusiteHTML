@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     
     padding: 0;
@@ -41,10 +42,53 @@ ul {
 }
 
 header a {
+=======
+body{
+
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    margin: 3% 10% 5% 0.5%; /*Topo da direita para esquerda*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+
+}
+
+h1{
+
+    color: #6A041D;
+    font-size: 220%;
+    text-align: center;
+
+}
+
+
+h4{
+    text-align: center;
+    font-size: 100%;
+    color: #C3423F;
+}
+
+#paginainicial{
+
+    background-color: #1E90FF;
+	color: #000;
+	text-align: center; 
+
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
     text-decoration: none;
     color: black;
     text-align: center;
     font-size: 25px;
+<<<<<<< HEAD
     transition: 0.2s;
 }
 
@@ -62,12 +106,23 @@ ul a:hover{
 }
 
 
+=======
+}
+
+#capa{
+
+    width: 111%;
+
+}
+
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
 #sobre{
 
     list-style: none;
 	display: inline;
     padding: 15px;
     text-align: center;
+<<<<<<< HEAD
 }
 
 #his1, #his3, #his5, #his7, #his9, #his11, #his13, #his15, #his17, #his19, #his21, #his23, #his25, #his27, #his29{
@@ -91,6 +146,18 @@ ul a:hover{
     margin-left: 5%;
     margin-right: 5%;
     text-align: justify;
+=======
+    
+
+
+}
+
+.bonus{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 15%;
+    margin-left: 5%;
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
     
 }
 
@@ -98,6 +165,10 @@ ul a:hover{
     grid-column-start: 1;
     grid-row-start: 1;
     grid-row-end: 1;
+<<<<<<< HEAD
+=======
+    font-style: bold;
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
     
 }
 
@@ -217,6 +288,10 @@ ul a:hover{
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
 h2{
 
     text-align: center;
@@ -224,6 +299,16 @@ h2{
 
 }
 
+<<<<<<< HEAD
+=======
+#his1, #his3, #his5, #his7, #his9, #his11, #his13, #his15, #his17, #his19, #his21, #his23, #his25, #his27, #his29{
+
+    text-align: center; 
+    color:  #C3423F;
+    font-size: 130%;
+
+}
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
 
 #item1{
 
@@ -231,4 +316,9 @@ text-align: center;
 font-size: 300%;
 color: #0A3200;
 
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 21c5483aa6e09b466695086436de8fcc421e8a68
